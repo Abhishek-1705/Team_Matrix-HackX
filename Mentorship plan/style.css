@@ -1,0 +1,65 @@
+body{
+     margin: 0px;
+	padding: 0px;
+	background-color: rgba(0, 225, 255,0.3);
+}
+#title h1{
+	font-size: 70px;
+	font-family: monospace;
+	color: magenta;
+}
+
+.inline-display{
+	display: inline-flex;
+	justify-content: space-evenly;
+	align-content: stretch;
+	margin: 180px;
+}
+#btn2{
+	margin-right: 40px;
+}
+
+.lifont li{
+	font-family: cursive;
+	font: bolder;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+
+}
+#plan1 div{
+	margin-left;40px: ;
+}
+.btn  {
+display:inline-block;
+background-color: hotpink;
+padding:0.3em 1.2em;
+margin:0 0.1em 0.1em 0;
+border:0.16em solid lightyellow;
+border-radius:2em;
+box-sizing: border-box;
+text-decoration:none;
+font-family:'Roboto',sans-serif;
+font-weight:300;
+color: black;
+text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+text-align:center;
+transition: all 0.2s;
+}
+.btn :hover{
+  color: lightyellow;
+}
