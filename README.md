@@ -1,4 +1,4 @@
-# Team_Matrix-HackX
+# Team_Matrix
  During pandemic, we all have faced various issue while taking the online classes whether it was about the classes or 
 about clearing our dobuts,So me and my team came up with this idea of How a users can easily able connect or to
 interact with the mentors and hence we end up making our project "MATRIX ". This project mainly focus on the user 
